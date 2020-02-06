@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './vadik.jpg';
 import './App.css';
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           {/*Edit <code>src/App.js</code> and save to reload.*/}
-	  Hi all, still there
+	  Vadik
         </p>
         <a
           className="App-link"
